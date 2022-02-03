@@ -1,0 +1,15 @@
+C:\Users\call_\OneDrive\Área de Trabalho\trabalhos\C#\TesteGFT\TesteGFT\obj\Debug\net6.0\TesteGFT.csproj.AssemblyReference.cache
+C:\Users\call_\OneDrive\Área de Trabalho\trabalhos\C#\TesteGFT\TesteGFT\obj\Debug\net6.0\TesteGFT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\call_\OneDrive\Área de Trabalho\trabalhos\C#\TesteGFT\TesteGFT\obj\Debug\net6.0\TesteGFT.AssemblyInfoInputs.cache
+C:\Users\call_\OneDrive\Área de Trabalho\trabalhos\C#\TesteGFT\TesteGFT\obj\Debug\net6.0\TesteGFT.AssemblyInfo.cs
+C:\Users\call_\OneDrive\Área de Trabalho\trabalhos\C#\TesteGFT\TesteGFT\obj\Debug\net6.0\TesteGFT.csproj.CoreCompileInputs.cache
+C:\Users\call_\OneDrive\Área de Trabalho\trabalhos\C#\TesteGFT\TesteGFT\bin\Debug\net6.0\TesteGFT.exe
+C:\Users\call_\OneDrive\Área de Trabalho\trabalhos\C#\TesteGFT\TesteGFT\bin\Debug\net6.0\TesteGFT.deps.json
+C:\Users\call_\OneDrive\Área de Trabalho\trabalhos\C#\TesteGFT\TesteGFT\bin\Debug\net6.0\TesteGFT.runtimeconfig.json
+C:\Users\call_\OneDrive\Área de Trabalho\trabalhos\C#\TesteGFT\TesteGFT\bin\Debug\net6.0\TesteGFT.dll
+C:\Users\call_\OneDrive\Área de Trabalho\trabalhos\C#\TesteGFT\TesteGFT\bin\Debug\net6.0\ref\TesteGFT.dll
+C:\Users\call_\OneDrive\Área de Trabalho\trabalhos\C#\TesteGFT\TesteGFT\bin\Debug\net6.0\TesteGFT.pdb
+C:\Users\call_\OneDrive\Área de Trabalho\trabalhos\C#\TesteGFT\TesteGFT\obj\Debug\net6.0\TesteGFT.dll
+C:\Users\call_\OneDrive\Área de Trabalho\trabalhos\C#\TesteGFT\TesteGFT\obj\Debug\net6.0\ref\TesteGFT.dll
+C:\Users\call_\OneDrive\Área de Trabalho\trabalhos\C#\TesteGFT\TesteGFT\obj\Debug\net6.0\TesteGFT.pdb
+C:\Users\call_\OneDrive\Área de Trabalho\trabalhos\C#\TesteGFT\TesteGFT\obj\Debug\net6.0\TesteGFT.genruntimeconfig.cache
