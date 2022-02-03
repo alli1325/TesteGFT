@@ -1,8 +1,8 @@
 namespace TesteGFT.financas
 {
     public class Investimento {
-            double valorInicial { get ; set;}
-            double jurosMensais { get ; set;}
+            protected double valorInicial { get ; set;}
+            protected double jurosMensais { get ; set;}
             public Investimento(double valorInicial, double jurosMensais){
                 this.valorInicial = valorInicial;
                 this.jurosMensais = jurosMensais;
